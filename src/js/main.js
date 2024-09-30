@@ -145,9 +145,9 @@ const swiper = new Swiper('.swiper', {
     type: 'bullets',
     clickable: true,
   },
-  effect: 'fade',
-  autoplay: {
-    delay: 5000,
-  },
+  // effect: 'fade',
+  // autoplay: {
+  //   delay: 5000,
+  // },
   setWrapperSize: false,
 });
